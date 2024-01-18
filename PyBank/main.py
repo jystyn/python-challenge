@@ -2,7 +2,7 @@ import csv
 import os
 
 #relative path to data file python-challenge/PyBank/Resources/budget_data.csv
-bank_data_csv = os.path.join("python-challenge","PyBank", "Resources", "budget_data.csv")
+bank_data_csv = os.path.join("Python_Starter","python-challenge","PyBank", "Resources", "budget_data.csv")
 
 #create list to store data
 budget_data = []
